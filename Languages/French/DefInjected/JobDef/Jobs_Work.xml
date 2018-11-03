@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TendSelf.reportString>se soigner à TargetA</TendSelf.reportString>
+  <Bandage.reportString>Bander</Bandage.reportString>
+  <BandageOthers.reportString>Bander TargetA.</BandageOthers.reportString>
+  <FixBrokenDownBuildingRepairKit.reportString>remplacement des composants cassés dans TargetA.</FixBrokenDownBuildingRepairKit.reportString>
+
+
+</LanguageData>

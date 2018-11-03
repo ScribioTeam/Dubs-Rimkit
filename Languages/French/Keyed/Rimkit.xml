@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <equippedKit>Ce colon est équipé d'un {0}</equippedKit>
+  <MedkitUses>Utilisations restantes</MedkitUses>
+  <TendInBed>Soigner au lit</TendInBed>
+  <TendInBedDesc>Soigner vos propres blessures dans le lit médical le plus proche</TendInBedDesc>
+  <TendTarget>Soigner la cible</TendTarget>
+  <TendTargetDesc>Soigner les autres blessures</TendTargetDesc>
+  <MedkitTendSelf>Se soigner</MedkitTendSelf>
+  <MedkitTendSelfDesc>Soigner leurs propres blessures sur place</MedkitTendSelfDesc>
+</LanguageData>

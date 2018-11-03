@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SalvagedComponent.label>Composant récupéré</SalvagedComponent.label>
+  <SalvagedComponent.description>Composants endommagés pouvant être réparés lors d'un l'usinage.</SalvagedComponent.description>
+
+  <UnfinishedKit.label>kit non fini</UnfinishedKit.label>
+  <UnfinishedKitStuff.label>kit non fini</UnfinishedKitStuff.label>
+
+  <MedicineBag.label>Sac de 1er secours</MedicineBag.label>
+  <MedicineBag.description>Permet au porteur de soigner ses propres blessures ou celles d’autres personnes sans avoir besoin de lits, mais sans opérer. Augmente également la vitesse de guérison</MedicineBag.description>
+
+  <MedicalKit.label>Medkit</MedicalKit.label>
+  <MedicalKit.description>Permet au porteur de soigner ses propres blessures ou celles d’autres personnes sans avoir besoin de lits, mais sans opérer. Augmente également la vitesse de guérison</MedicalKit.description>
+
+  <UltraMedKit.label>Medkit avancer</UltraMedKit.label>
+  <UltraMedKit.description>Permet au porteur de soigner ses propres blessures ou celles d’autres personnes sans avoir besoin de lits, mais sans opérer. Augmente également la vitesse de guérison</UltraMedKit.description>
+
+  <DubsRepairKit.label>Kit de réparation</DubsRepairKit.label>
+  <DubsRepairKit.description>Permet au porteur de récupérer des pièces de bâtiments en panne tout en les réparant, le taux de réussite est basé sur les compétences et augmente également les statistiques de construction.</DubsRepairKit.description>
+
+
+</LanguageData>

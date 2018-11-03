@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairComponent.label>composant de réparation</RepairComponent.label>
+  <RepairComponent.description>Réparer un composant casser.</RepairComponent.description>
+  <RepairComponent.jobString>Répare un composant.</RepairComponent.jobString>
+
+
+</LanguageData>
